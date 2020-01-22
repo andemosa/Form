@@ -1,0 +1,48 @@
+* {margin: 0;
+    padding: 0;}
+   
+body {
+    background-image: url(VGG.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    
+main {
+        text-align: center;
+    }
+    
+#form {
+        background-color: rgba(2, 2, 95, 0.5);
+        padding: 10px 5%;
+        text-align: left;
+        color: rgb(246, 246, 250);
+        border-radius: 10px;
+        margin: 20em 5%;
+                }
+    
+    input {
+        width: 100%;
+    }
+
+    #button {
+        width: auto;
+        padding: 5px;
+        background-color: rgb(2, 6, 66);
+        color: white;
+        text-align: center;
+        align-items: center;
+    }
+    
+    #button:hover {
+      width: auto;
+        padding: 5px;
+        background-color: rgba(2, 6, 66, 0.5);
+        color: white;
+        text-align: center;
+        transform: scale(1.1);
+    }
+    
+   
+      
